@@ -1,0 +1,702 @@
+[
+    {
+      "name": "Tris Penvarden",
+      "dateOfJoining": "2022-11-30T22:45:24Z",
+      "position": "manager",
+      "baseSalary": 481,
+      "supervisor": 0
+    },
+    {
+      "name": "Alistair Boulds",
+      "dateOfJoining": "2021-11-16T06:48:25Z",
+      "position": "manager",
+      "baseSalary": 2259,
+      "supervisor": 0
+    },
+    {
+      "name": "Orly Calvert",
+      "dateOfJoining": "2011-07-06T16:15:19Z",
+      "position": "sales",
+      "baseSalary": 2226,
+      "supervisor": 0
+    },
+    {
+      "name": "Mirelle Giannotti",
+      "dateOfJoining": "2004-12-04T00:42:20Z",
+      "position": "sales",
+      "baseSalary": 1529,
+      "supervisor": 0
+    },
+    {
+      "name": "Bancroft Coveny",
+      "dateOfJoining": "2006-03-09T03:15:30Z",
+      "position": "employee",
+      "baseSalary": 1059,
+      "supervisor": 0
+    },
+    {
+      "name": "Heindrick Pimme",
+      "dateOfJoining": "2012-02-08T04:28:54Z",
+      "position": "sales",
+      "baseSalary": 194,
+      "supervisor": 0
+    },
+    {
+      "name": "Izaak Rooper",
+      "dateOfJoining": "2006-11-02T04:46:55Z",
+      "position": "employee",
+      "baseSalary": 1602,
+      "supervisor": 0
+    },
+    {
+      "name": "Kip Fiorentino",
+      "dateOfJoining": "2014-10-03T23:50:57Z",
+      "position": "sales",
+      "baseSalary": 562,
+      "supervisor": 0
+    },
+    {
+      "name": "Ashley Strut",
+      "dateOfJoining": "2001-08-25T16:44:09Z",
+      "position": "manager",
+      "baseSalary": 2981,
+      "supervisor": 0
+    },
+    {
+      "name": "Krysta Poinsett",
+      "dateOfJoining": "2000-04-08T14:08:31Z",
+      "position": "employee",
+      "baseSalary": 244,
+      "supervisor": 0
+    },
+    {
+      "name": "Corella Stickles",
+      "dateOfJoining": "2007-07-26T11:29:18Z",
+      "position": "manager",
+      "baseSalary": 757,
+      "supervisor": 0
+    },
+    {
+      "name": "Darn Dorning",
+      "dateOfJoining": "2015-09-05T04:35:12Z",
+      "position": "sales",
+      "baseSalary": 461,
+      "supervisor": 0
+    },
+    {
+      "name": "Bobette Linder",
+      "dateOfJoining": "2002-02-09T19:05:21Z",
+      "position": "employee",
+      "baseSalary": 337,
+      "supervisor": 0
+    },
+    {
+      "name": "Camilla Tinsey",
+      "dateOfJoining": "2022-06-04T11:50:01Z",
+      "position": "manager",
+      "baseSalary": 2291,
+      "supervisor": 0
+    },
+    {
+      "name": "Cosimo Pauling",
+      "dateOfJoining": "2013-01-09T03:33:10Z",
+      "position": "manager",
+      "baseSalary": 634,
+      "supervisor": 0
+    },
+    {
+      "name": "Gretchen Sinclar",
+      "dateOfJoining": "2018-12-07T07:03:10Z",
+      "position": "sales",
+      "baseSalary": 1478,
+      "supervisor": 0
+    },
+    {
+      "name": "Kippar Hanby",
+      "dateOfJoining": "2001-03-04T05:08:35Z",
+      "position": "sales",
+      "baseSalary": 321,
+      "supervisor": 0
+    },
+    {
+      "name": "Orelee McHarry",
+      "dateOfJoining": "2000-05-12T05:57:23Z",
+      "position": "employee",
+      "baseSalary": 348,
+      "supervisor": 0
+    },
+    {
+      "name": "Fayre Shear",
+      "dateOfJoining": "2016-10-31T09:55:08Z",
+      "position": "sales",
+      "baseSalary": 603,
+      "supervisor": 0
+    },
+    {
+      "name": "Shaylyn McClifferty",
+      "dateOfJoining": "2013-06-14T23:09:37Z",
+      "position": "employee",
+      "baseSalary": 1094,
+      "supervisor": 0
+    },
+    {
+      "name": "Morna Barizeret",
+      "dateOfJoining": "2000-10-20T13:28:37Z",
+      "position": "sales",
+      "baseSalary": 1120,
+      "supervisor": 0
+    },
+    {
+      "name": "Kirsten Errol",
+      "dateOfJoining": "2015-09-22T10:32:21Z",
+      "position": "sales",
+      "baseSalary": 957,
+      "supervisor": 0
+    },
+    {
+      "name": "Georgina Suarez",
+      "dateOfJoining": "2020-12-03T07:21:59Z",
+      "position": "manager",
+      "baseSalary": 419,
+      "supervisor": 0
+    },
+    {
+      "name": "Hilliard Gioani",
+      "dateOfJoining": "2000-10-30T19:45:16Z",
+      "position": "employee",
+      "baseSalary": 930,
+      "supervisor": 0
+    },
+    {
+      "name": "Clem Scoterbosh",
+      "dateOfJoining": "2023-07-01T04:18:55Z",
+      "position": "manager",
+      "baseSalary": 1541,
+      "supervisor": 0
+    },
+    {
+      "name": "Brennen Spraging",
+      "dateOfJoining": "2003-12-14T15:26:42Z",
+      "position": "manager",
+      "baseSalary": 1499,
+      "supervisor": 0
+    },
+    {
+      "name": "Chandra McBratney",
+      "dateOfJoining": "2015-06-19T22:30:05Z",
+      "position": "sales",
+      "baseSalary": 1261,
+      "supervisor": 0
+    },
+    {
+      "name": "Gert Huddart",
+      "dateOfJoining": "2005-04-08T20:17:07Z",
+      "position": "manager",
+      "baseSalary": 1278,
+      "supervisor": 0
+    },
+    {
+      "name": "Kay Dudleston",
+      "dateOfJoining": "2015-06-02T12:18:32Z",
+      "position": "employee",
+      "baseSalary": 2896,
+      "supervisor": 0
+    },
+    {
+      "name": "Tammie Knee",
+      "dateOfJoining": "2009-08-02T00:19:54Z",
+      "position": "sales",
+      "baseSalary": 1590,
+      "supervisor": 0
+    },
+    {
+      "name": "Gregorius Bener",
+      "dateOfJoining": "2005-09-04T11:48:33Z",
+      "position": "manager",
+      "baseSalary": 1229,
+      "supervisor": 0
+    },
+    {
+      "name": "Zaneta Fenne",
+      "dateOfJoining": "2017-02-27T07:22:32Z",
+      "position": "employee",
+      "baseSalary": 513,
+      "supervisor": 0
+    },
+    {
+      "name": "Tine Galloway",
+      "dateOfJoining": "2021-10-22T08:06:36Z",
+      "position": "manager",
+      "baseSalary": 788,
+      "supervisor": 0
+    },
+    {
+      "name": "Marina Vivians",
+      "dateOfJoining": "2019-09-07T13:10:42Z",
+      "position": "manager",
+      "baseSalary": 483,
+      "supervisor": 0
+    },
+    {
+      "name": "Pru Rowthorn",
+      "dateOfJoining": "2010-06-26T16:11:19Z",
+      "position": "employee",
+      "baseSalary": 2279,
+      "supervisor": 0
+    },
+    {
+      "name": "Homer Sieghart",
+      "dateOfJoining": "2000-06-22T02:26:10Z",
+      "position": "employee",
+      "baseSalary": 1759,
+      "supervisor": 0
+    },
+    {
+      "name": "Brett Duffan",
+      "dateOfJoining": "2021-09-23T16:19:06Z",
+      "position": "manager",
+      "baseSalary": 902,
+      "supervisor": 0
+    },
+    {
+      "name": "Gearalt Campaigne",
+      "dateOfJoining": "2002-05-21T15:05:43Z",
+      "position": "employee",
+      "baseSalary": 704,
+      "supervisor": 0
+    },
+    {
+      "name": "Fin Mayne",
+      "dateOfJoining": "2019-05-24T02:11:16Z",
+      "position": "manager",
+      "baseSalary": 2158,
+      "supervisor": 0
+    },
+    {
+      "name": "Carmelita Echallie",
+      "dateOfJoining": "2021-05-11T06:41:06Z",
+      "position": "sales",
+      "baseSalary": 2631,
+      "supervisor": 0
+    },
+    {
+      "name": "Benjy Lipscombe",
+      "dateOfJoining": "2006-03-27T08:49:18Z",
+      "position": "sales",
+      "baseSalary": 1395,
+      "supervisor": 0
+    },
+    {
+      "name": "Grete Arend",
+      "dateOfJoining": "2004-02-14T01:16:24Z",
+      "position": "employee",
+      "baseSalary": 2074,
+      "supervisor": 0
+    },
+    {
+      "name": "Avigdor Withnall",
+      "dateOfJoining": "2020-11-15T01:11:05Z",
+      "position": "manager",
+      "baseSalary": 912,
+      "supervisor": 0
+    },
+    {
+      "name": "Cob Gidney",
+      "dateOfJoining": "2017-12-12T20:55:25Z",
+      "position": "sales",
+      "baseSalary": 2616,
+      "supervisor": 0
+    },
+    {
+      "name": "Winfred Averies",
+      "dateOfJoining": "2004-01-06T01:20:47Z",
+      "position": "manager",
+      "baseSalary": 1740,
+      "supervisor": 0
+    },
+    {
+      "name": "Nelson Kinsell",
+      "dateOfJoining": "2021-07-24T01:29:13Z",
+      "position": "manager",
+      "baseSalary": 1671,
+      "supervisor": 0
+    },
+    {
+      "name": "Odey Jackling",
+      "dateOfJoining": "2018-12-04T09:39:15Z",
+      "position": "employee",
+      "baseSalary": 2827,
+      "supervisor": 0
+    },
+    {
+      "name": "Prince Calbrathe",
+      "dateOfJoining": "2004-10-10T01:38:02Z",
+      "position": "manager",
+      "baseSalary": 387,
+      "supervisor": 0
+    },
+    {
+      "name": "Olive Cesconi",
+      "dateOfJoining": "2013-11-22T09:35:14Z",
+      "position": "employee",
+      "baseSalary": 768,
+      "supervisor": 0
+    },
+    {
+      "name": "Arni Camel",
+      "dateOfJoining": "2001-09-30T12:00:45Z",
+      "position": "manager",
+      "baseSalary": 2917,
+      "supervisor": 0
+    },
+    {
+      "name": "Kristoforo Erdely",
+      "dateOfJoining": "2015-09-02T21:00:17Z",
+      "position": "employee",
+      "baseSalary": 1351,
+      "supervisor": 0
+    },
+    {
+      "name": "Tome Markussen",
+      "dateOfJoining": "2014-10-18T17:48:49Z",
+      "position": "employee",
+      "baseSalary": 168,
+      "supervisor": 0
+    },
+    {
+      "name": "Tana Perillio",
+      "dateOfJoining": "2022-12-24T10:11:49Z",
+      "position": "employee",
+      "baseSalary": 561,
+      "supervisor": 0
+    },
+    {
+      "name": "Gery Plumtree",
+      "dateOfJoining": "2006-04-18T20:06:12Z",
+      "position": "manager",
+      "baseSalary": 2014,
+      "supervisor": 0
+    },
+    {
+      "name": "Catlaina Schimke",
+      "dateOfJoining": "2019-04-09T05:09:41Z",
+      "position": "employee",
+      "baseSalary": 279,
+      "supervisor": 0
+    },
+    {
+      "name": "Lucias Beecroft",
+      "dateOfJoining": "2017-02-15T10:46:04Z",
+      "position": "sales",
+      "baseSalary": 1437,
+      "supervisor": 0
+    },
+    {
+      "name": "Ag Cammish",
+      "dateOfJoining": "2005-04-27T14:02:12Z",
+      "position": "manager",
+      "baseSalary": 2446,
+      "supervisor": 0
+    },
+    {
+      "name": "Yetta Discombe",
+      "dateOfJoining": "2015-02-02T06:09:55Z",
+      "position": "employee",
+      "baseSalary": 2632,
+      "supervisor": 0
+    },
+    {
+      "name": "Afton Beddis",
+      "dateOfJoining": "2003-03-03T01:10:10Z",
+      "position": "manager",
+      "baseSalary": 1521,
+      "supervisor": 0
+    },
+    {
+      "name": "Jilly Swatland",
+      "dateOfJoining": "2017-02-14T21:04:51Z",
+      "position": "manager",
+      "baseSalary": 2062,
+      "supervisor": 0
+    },
+    {
+      "name": "Ody Feasby",
+      "dateOfJoining": "2009-06-24T03:47:40Z",
+      "position": "sales",
+      "baseSalary": 1119,
+      "supervisor": 0
+    },
+    {
+      "name": "Roxane Luckcock",
+      "dateOfJoining": "2023-10-09T12:51:10Z",
+      "position": "sales",
+      "baseSalary": 1218,
+      "supervisor": 0
+    },
+    {
+      "name": "Regina Keers",
+      "dateOfJoining": "2007-10-22T02:03:12Z",
+      "position": "employee",
+      "baseSalary": 206,
+      "supervisor": 0
+    },
+    {
+      "name": "Meaghan Stobie",
+      "dateOfJoining": "2009-04-24T21:54:39Z",
+      "position": "sales",
+      "baseSalary": 787,
+      "supervisor": 0
+    },
+    {
+      "name": "Cello Langwade",
+      "dateOfJoining": "2011-01-11T23:25:50Z",
+      "position": "employee",
+      "baseSalary": 1437,
+      "supervisor": 0
+    },
+    {
+      "name": "Karrah Capps",
+      "dateOfJoining": "2016-03-26T02:42:35Z",
+      "position": "manager",
+      "baseSalary": 1552,
+      "supervisor": 0
+    },
+    {
+      "name": "Jacenta Felder",
+      "dateOfJoining": "2011-07-06T05:11:35Z",
+      "position": "sales",
+      "baseSalary": 1465,
+      "supervisor": 0
+    },
+    {
+      "name": "Irvin Goring",
+      "dateOfJoining": "2023-03-03T08:42:05Z",
+      "position": "manager",
+      "baseSalary": 2349,
+      "supervisor": 0
+    },
+    {
+      "name": "Alfie Devonald",
+      "dateOfJoining": "2008-12-11T03:53:18Z",
+      "position": "employee",
+      "baseSalary": 817,
+      "supervisor": 0
+    },
+    {
+      "name": "Nicola Fairbrace",
+      "dateOfJoining": "2014-12-17T06:34:43Z",
+      "position": "employee",
+      "baseSalary": 2360,
+      "supervisor": 0
+    },
+    {
+      "name": "Elly Riden",
+      "dateOfJoining": "2018-12-27T22:49:55Z",
+      "position": "manager",
+      "baseSalary": 1895,
+      "supervisor": 0
+    },
+    {
+      "name": "Raffarty McGrorty",
+      "dateOfJoining": "2001-05-12T18:06:45Z",
+      "position": "manager",
+      "baseSalary": 2408,
+      "supervisor": 0
+    },
+    {
+      "name": "Elvira Warder",
+      "dateOfJoining": "2013-12-24T06:58:04Z",
+      "position": "sales",
+      "baseSalary": 2885,
+      "supervisor": 0
+    },
+    {
+      "name": "Ellene Raggatt",
+      "dateOfJoining": "2005-06-19T07:52:06Z",
+      "position": "manager",
+      "baseSalary": 2853,
+      "supervisor": 0
+    },
+    {
+      "name": "Haleigh Egginton",
+      "dateOfJoining": "2009-08-29T22:09:50Z",
+      "position": "employee",
+      "baseSalary": 2686,
+      "supervisor": 0
+    },
+    {
+      "name": "Scarface Arrigo",
+      "dateOfJoining": "2014-12-02T02:18:37Z",
+      "position": "manager",
+      "baseSalary": 2874,
+      "supervisor": 0
+    },
+    {
+      "name": "Marys Loosmore",
+      "dateOfJoining": "2001-06-22T22:05:33Z",
+      "position": "employee",
+      "baseSalary": 560,
+      "supervisor": 0
+    },
+    {
+      "name": "Roxanne Udden",
+      "dateOfJoining": "2012-01-18T07:35:00Z",
+      "position": "sales",
+      "baseSalary": 1360,
+      "supervisor": 0
+    },
+    {
+      "name": "Sonny Softley",
+      "dateOfJoining": "2008-02-09T02:21:00Z",
+      "position": "sales",
+      "baseSalary": 366,
+      "supervisor": 0
+    },
+    {
+      "name": "Alejandrina Rewcastle",
+      "dateOfJoining": "2022-01-07T21:49:23Z",
+      "position": "employee",
+      "baseSalary": 1728,
+      "supervisor": 0
+    },
+    {
+      "name": "Gale Hundey",
+      "dateOfJoining": "2006-12-09T19:58:06Z",
+      "position": "manager",
+      "baseSalary": 2027,
+      "supervisor": 0
+    },
+    {
+      "name": "Frannie Coveney",
+      "dateOfJoining": "2013-04-05T15:24:08Z",
+      "position": "sales",
+      "baseSalary": 1427,
+      "supervisor": 0
+    },
+    {
+      "name": "Karna Delf",
+      "dateOfJoining": "2017-08-18T12:43:01Z",
+      "position": "employee",
+      "baseSalary": 1657,
+      "supervisor": 0
+    },
+    {
+      "name": "Lou Yedall",
+      "dateOfJoining": "2021-11-26T09:22:04Z",
+      "position": "manager",
+      "baseSalary": 2748,
+      "supervisor": 0
+    },
+    {
+      "name": "Maggee Richardes",
+      "dateOfJoining": "2012-09-04T18:41:23Z",
+      "position": "employee",
+      "baseSalary": 244,
+      "supervisor": 0
+    },
+    {
+      "name": "Norina Orriss",
+      "dateOfJoining": "2023-01-17T05:01:59Z",
+      "position": "employee",
+      "baseSalary": 2015,
+      "supervisor": 0
+    },
+    {
+      "name": "Jodie Rymer",
+      "dateOfJoining": "2005-02-28T20:46:59Z",
+      "position": "employee",
+      "baseSalary": 749,
+      "supervisor": 0
+    },
+    {
+      "name": "Silvan Eamer",
+      "dateOfJoining": "2017-12-31T11:51:34Z",
+      "position": "employee",
+      "baseSalary": 2331,
+      "supervisor": 0
+    },
+    {
+      "name": "Turner Bowcock",
+      "dateOfJoining": "2007-12-08T09:01:35Z",
+      "position": "employee",
+      "baseSalary": 1939,
+      "supervisor": 0
+    },
+    {
+      "name": "Beatrice Fuller",
+      "dateOfJoining": "2004-05-11T09:04:30Z",
+      "position": "employee",
+      "baseSalary": 207,
+      "supervisor": 0
+    },
+    {
+      "name": "Clim Aery",
+      "dateOfJoining": "2023-10-23T17:39:04Z",
+      "position": "sales",
+      "baseSalary": 2550,
+      "supervisor": 0
+    },
+    {
+      "name": "Beale Harrisson",
+      "dateOfJoining": "2009-03-15T21:45:12Z",
+      "position": "employee",
+      "baseSalary": 1229,
+      "supervisor": 0
+    },
+    {
+      "name": "Pebrook Giacopelo",
+      "dateOfJoining": "2016-04-04T01:21:46Z",
+      "position": "sales",
+      "baseSalary": 2132,
+      "supervisor": 0
+    },
+    {
+      "name": "Tobey Wolfindale",
+      "dateOfJoining": "2014-05-01T01:11:23Z",
+      "position": "manager",
+      "baseSalary": 1839,
+      "supervisor": 0
+    },
+    {
+      "name": "Omero Curtis",
+      "dateOfJoining": "2000-07-28T14:30:17Z",
+      "position": "employee",
+      "baseSalary": 2815,
+      "supervisor": 0
+    },
+    {
+      "name": "Holmes Stoad",
+      "dateOfJoining": "2010-12-21T14:48:55Z",
+      "position": "employee",
+      "baseSalary": 1517,
+      "supervisor": 0
+    },
+    {
+      "name": "Ailyn Curphey",
+      "dateOfJoining": "2010-07-12T15:06:49Z",
+      "position": "manager",
+      "baseSalary": 2708,
+      "supervisor": 0
+    },
+    {
+      "name": "Vittorio Pantridge",
+      "dateOfJoining": "2000-08-27T11:04:58Z",
+      "position": "sales",
+      "baseSalary": 1740,
+      "supervisor": 0
+    },
+    {
+      "name": "Traci Meechan",
+      "dateOfJoining": "2016-08-02T15:56:05Z",
+      "position": "employee",
+      "baseSalary": 259,
+      "supervisor": 0
+    },
+    {
+      "name": "Fraze Rapo",
+      "dateOfJoining": "2023-01-18T23:26:48Z",
+      "position": "employee",
+      "baseSalary": 2394,
+      "supervisor": 0
+    }
+  ]
